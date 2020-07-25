@@ -1,0 +1,17 @@
+table,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  box-sizing: border-box;
+}
+#manager {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+td {
+  padding: 10px;
+}

@@ -1,0 +1,44 @@
+#SignUp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+label {
+  margin: 10px;
+}
+
+.signup-p {
+  color: red;
+}
+
+#sign-up-buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#NO {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 400px;
+}
+
+#full-name {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 400px;
+}
+
+#forklift {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 400px;
+}
