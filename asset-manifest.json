@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Logistics-Management/static/css/main.d97f5384.chunk.css",
+    "main.js": "/Logistics-Management/static/js/main.a56c2e94.chunk.js",
+    "main.js.map": "/Logistics-Management/static/js/main.a56c2e94.chunk.js.map",
+    "runtime-main.js": "/Logistics-Management/static/js/runtime-main.4f9403ea.js",
+    "runtime-main.js.map": "/Logistics-Management/static/js/runtime-main.4f9403ea.js.map",
+    "static/js/2.ee69a78d.chunk.js": "/Logistics-Management/static/js/2.ee69a78d.chunk.js",
+    "static/js/2.ee69a78d.chunk.js.map": "/Logistics-Management/static/js/2.ee69a78d.chunk.js.map",
+    "index.html": "/Logistics-Management/index.html",
+    "precache-manifest.ea43ebb0b0d1065f1ce3e663ab05bcb9.js": "/Logistics-Management/precache-manifest.ea43ebb0b0d1065f1ce3e663ab05bcb9.js",
+    "service-worker.js": "/Logistics-Management/service-worker.js",
+    "static/css/main.d97f5384.chunk.css.map": "/Logistics-Management/static/css/main.d97f5384.chunk.css.map",
+    "static/js/2.ee69a78d.chunk.js.LICENSE.txt": "/Logistics-Management/static/js/2.ee69a78d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f9403ea.js",
+    "static/js/2.ee69a78d.chunk.js",
+    "static/css/main.d97f5384.chunk.css",
+    "static/js/main.a56c2e94.chunk.js"
+  ]
+}
